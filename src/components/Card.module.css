@@ -1,0 +1,53 @@
+.container{
+         width: 25dvh;
+         height: 40dvh;
+         background: var(--green-299);
+         float: right;
+         margin-right: 5dvh;
+         border-radius: 8px;
+         margin-top: 10dvh;
+         margin-right: 15dvh;
+}
+
+.space{
+         margin-right: 8dvh;;
+}
+
+.container img{
+         max-width: 20dvh;
+         margin-left: 2.5dvh;
+         margin-top: 2.5dvh;
+         border-radius: 8px;
+}
+
+.container h4{
+         margin-left: 1.7dvh;
+}
+
+.container h5{
+         margin-left: 6dvh;
+}
+
+.container p{
+         margin-left: 1.7dvh;
+         font-weight: bold;
+         float: left;
+}
+
+.container span{
+         float: right;
+         display: block;
+         background: var(--green-300);
+         height: 4dvh;
+         width: 11dvh;
+         padding: 1dvh;
+         line-height: 1.5dvh;
+         border-radius: 8px;
+         margin-bottom: 8dvh;
+         margin-right: 1dvh;
+}
+
+.container span:hover{
+         cursor: pointer;
+         background: rgb(6, 198, 41);
+}
